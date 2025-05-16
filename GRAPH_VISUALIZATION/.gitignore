@@ -1,0 +1,8 @@
+.csv
+.zip
+.pt
+.txt
+.log
+/build
+/dist
+/vis_venv
